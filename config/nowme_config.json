@@ -1,0 +1,8 @@
+{
+"couchdb_username":"username" ,
+"couchdb_auth_username":"username" ,
+"couchdb_auth_password":"passowrd", 
+"couchdb_url" : "username.cloudant.com",
+"backup_sqlite" : "backup.sqlite",
+"report_sql_db" : "report.sqlite"
+}
